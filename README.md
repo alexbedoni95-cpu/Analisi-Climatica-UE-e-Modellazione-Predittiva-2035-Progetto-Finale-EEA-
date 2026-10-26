@@ -1,4 +1,4 @@
 # Analisi-Climatica-UE-e-Modellazione-Predittiva-2035-Progetto-Finale-EEA-
 Stack:Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Keras / TensorFlow (LSTM)
-https://github.com/alexbedoni95-cpu/Analisi-Climatica-UE-e-Modellazione-Predittiva-2035-Progetto-Finale-EEA-/blob/main/2025-01-10-dataset-climate-projectzip(2).zip
+Dataset utilizzato: Climate.
 Analisi per l’Agenzia Europea dell’Ambiente su emissioni di gas serra (1970-2023) e quote di rinnovabili (2005-2023). Mappati i top emettitori e confrontata l'Italia con la media UE, studiando l'impatto dell'energia pulita. Applicati e confrontati modelli ML e DL (Regressione Lineare/Polinomiale, reti LSTM) per stimare la CO2 al 2035.
